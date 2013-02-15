@@ -12,6 +12,7 @@ If you encounter a bug while using Source 1 games, first search the [issue list]
 
 If it has not been reported, create a new issue with at least the following information:
 
+- which game you're reporting the bug on (TF2, CS:S, all)
 - a short, descriptive title;
 - a detailed description of the issue, including any output from the command line;
 - steps for reproducing the issue; and

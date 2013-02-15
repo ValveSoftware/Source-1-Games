@@ -5,10 +5,10 @@ This is the README for the Source 1 based games.  Source 1 based games include T
 
 Please use this repository to report bugs and feature requests for Team Fortress 2, Count-Strike:Source and the Source 1 Engine.
 
-Reporting Issues
+Reporting Bugs
 ----------------
 
-If you encounter an issue while using Source 1 games, first search the [issue list](https://github.com/ValveSoftware/Source-1-Games/issues) to see if it has already been reported. Include closed issues in your search.
+If you encounter a bug while using Source 1 games, first search the [issue list](https://github.com/ValveSoftware/Source-1-Games/issues) to see if it has already been reported. Include closed issues in your search.
 
 If it has not been reported, create a new issue with at least the following information:
 
@@ -20,6 +20,23 @@ If it has not been reported, create a new issue with at least the following info
 Please place logs either in a code block (press `M` in your browser for a GFM cheat sheet) or a [gist](https://gist.github.com).
 
 \* Your system information must include your Linux distro, your Desktop Manager, Graphics card info (manufacturer, card version), any and all graphics driver versions, and anything else that you think may be useful (mouse/keyboard, filesystem type, etc). The preferred and easiest way to get this information is from Steam's Hardware Information viewer from the menu (`Help -> System Information`). Once your information appears: right-click within the dialog, choose `Select All`, right-click again, and then choose `Copy`. Paste this information into your report, preferably in a code block.  
+
+Feature Requests
+-------------------
+
+If you are asking for a new feature or enhancement for a game, first search the [issue list](https://github.com/ValveSoftware/Source-1-Games/issues) to see if it has already been asked for. Include closed issues in your search.
+
+If it has been asked for, go ahead and put your 2 cents in for it in the existing entry.
+
+If it has not been asked for, create a new issue with at least the following information:
+
+ - The game your asking for the enhancement
+ - A clear description of what exactly you want
+ - Justification as to why this is something that is needed
+ - Why we should do this feature rather than doing some other feature on the list
+
+Remember that just because you ask for a feature improvement doesn't mean we'll get to it.  We're mostly going to be focused on existing bugs rather than enhancing these games.  That being said, it does make a difference to know what you want here.  Be clear.  Be concise.
+
 
 Conduct
 -------

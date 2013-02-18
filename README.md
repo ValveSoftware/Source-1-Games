@@ -44,14 +44,19 @@ Driver Contact Information
 Some of the issue you may be experiencing are due to the various video drivers.  Here is an incomplete list of places that you might be able to file bugs:
 
 - AMD Issue Reporting Form for AMD Catalyst™ 13.1
+
 http://www.amdsurveys.com/se.ashx?s=5A1E27D20B2F3ECF
+
 - AMD Issue Reporting Form for AMD Catalyst™ 13.2 Beta
+
 http://www.amdsurveys.com/se.ashx?s=5A1E27D20B2F3F36
 
 - General Intel Forums
+
 http://communities.intel.com/community/tech/search.jspa?peopleEnabled=true&userID=&locale=en_US&q=linux+driver
 
 - nVidia Forums
+
 https://devtalk.nvidia.com/default/board/98
 
 

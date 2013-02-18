@@ -38,10 +38,27 @@ If it has not been asked for, create a new issue with at least the following inf
 
 Remember that just because you ask for a feature improvement doesn't mean we'll get to it.  We're mostly going to be focused on existing bugs rather than enhancing these games.  That being said, it does make a difference to know what you want here.  Be clear.  Be concise.
 
+Driver Contact Information
+--------------------------
+
+Some of the issue you may be experiencing are due to the various video drivers.  Here is an incomplete list of places that you might be able to file bugs:
+
+- AMD Issue Reporting Form for AMD Catalyst™ 13.1
+http://www.amdsurveys.com/se.ashx?s=5A1E27D20B2F3ECF
+- AMD Issue Reporting Form for AMD Catalyst™ 13.2 Beta
+http://www.amdsurveys.com/se.ashx?s=5A1E27D20B2F3F36
+
+- General Intel Forums
+http://communities.intel.com/community/tech/search.jspa?peopleEnabled=true&userID=&locale=en_US&q=linux+driver
+
+- nVidia Forums
+https://devtalk.nvidia.com/default/board/98
+
+
+If you know of any other places, please let us know.
 
 Conduct
 -------
-
 
 There are basic rules of conduct that should be followed at all times by everyone participating in the discussions.  While this is generally a relaxed environment, please remember the following:
 

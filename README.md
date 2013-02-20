@@ -5,6 +5,18 @@ This is the README for the Source 1 based games.  Source 1 based games include T
 
 Please use this repository to report bugs and feature requests for Team Fortress 2, Count-Strike:Source and the Source 1 Engine.
 
+Conduct
+-------
+
+There are basic rules of conduct that should be followed at all times by everyone participating in the discussions.  While this is generally a relaxed environment, please remember the following:
+
+- Do not insult, harass, or demean anyone.
+- Do not intentionally multi-post an issue.
+- Do not use ALL CAPS when creating an issue report.
+- Do not repeatedly update an open issue remarking that the issue persists.
+
+Remember: Just because the issue you reported was reported here does not mean that it is an issue Team Fortress 2, Counter-Strike:Source or any other Source 1 game.  As well, should your issue not be resolved immediately, it does not mean that a resolution is not being researched or tested.  Patience is always appreciated.
+
 Reporting Bugs
 ----------------
 
@@ -69,14 +81,12 @@ https://devtalk.nvidia.com/default/board/98
 
 If you know of any other places, please let us know.
 
-Conduct
--------
+Known Video Driver/Card issues:
+----------------------------------
 
-There are basic rules of conduct that should be followed at all times by everyone participating in the discussions.  While this is generally a relaxed environment, please remember the following:
+**nVidia**
 
-- Do not insult, harass, or demean anyone.
-- Do not intentionally multi-post an issue.
-- Do not use ALL CAPS when creating an issue report.
-- Do not repeatedly update an open issue remarking that the issue persists.
+6xxx and 7xxx hardware have been EOL'd. The code specific to these GPUs isn't even compiled into drivers anymore.
 
-Remember: Just because the issue you reported was reported here does not mean that it is an issue Team Fortress 2, Counter-Strike:Source or any other Source 1 game.  As well, should your issue not be resolved immediately, it does not mean that a resolution is not being researched or tested.  Patience is always appreciated.
+6xxx and 7xxx GPUs are incapable of performing sRGB functionality needed by Source Engine titles when being driven by OpenGL. (The sRGB behavior as specified in OpenGL is slightly different than the behavior that was actually unspecified in D3D9, which is why this works in D3D9 but not in OpenGL).
+

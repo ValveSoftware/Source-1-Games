@@ -76,8 +76,11 @@ http://mesa3d.org/bugs.html
 
 **nVidia**
 
-https://devtalk.nvidia.com/default/board/98
+nVidia supported drivers
+- https://devtalk.nvidia.com/default/board/98
 
+Open Source nVidia driver (nouveau)
+- http://nouveau.freedesktop.org/wiki/FrontPage
 
 If you know of any other places, please let us know.
 

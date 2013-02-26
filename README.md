@@ -17,7 +17,7 @@ There are basic rules of conduct that should be followed at all times by everyon
 
 Remember: Just because the issue you reported was reported here does not mean that it is an issue Team Fortress 2, Counter-Strike:Source or any other Source 1 game.  As well, should your issue not be resolved immediately, it does not mean that a resolution is not being researched or tested.  Patience is always appreciated.
 
-Reporting Bugs
+Reporting Issues
 ----------------
 
 If you encounter a bug while using Source 1 games, first search the [issue list](https://github.com/ValveSoftware/Source-1-Games/issues) to see if it has already been reported. Include closed issues in your search.

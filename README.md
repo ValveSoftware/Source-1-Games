@@ -36,7 +36,7 @@ Please place logs either in a code block (press `M` in your browser for a GFM ch
 
 Your system information must include:
 - your Linux distro
-- your Desktop/Window Manage
+- your Desktop/Window Manager
 - your Graphics card info (manufacturer, card version), any and all graphics driver versions
 - anything else that you think may be useful (mouse/keyboard, filesystem type, etc).
 

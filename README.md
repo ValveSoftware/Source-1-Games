@@ -72,6 +72,8 @@ AMD Steam Linux forum for reporting **compatability and performance issues with 
 
 http://devgurus.amd.com/community/steam-linux
 
+The AMD Open Source driver is a part of Mesa, so use the links under "Intel" to report issues with it.
+
 ### Intel
 
 For discussions, there is the mesa-users email list:

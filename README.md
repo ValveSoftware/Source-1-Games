@@ -68,7 +68,7 @@ Some of the issue you may be experiencing are due to the various video drivers. 
 
 ### AMD
 
-AMD Steam Linux forum for reporting **compatability and performance issues with AMD hardware**:
+AMD Steam Linux forum for reporting **compatibility and performance issues with AMD hardware**:
 
 http://devgurus.amd.com/community/steam-linux
 

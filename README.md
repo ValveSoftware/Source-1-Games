@@ -90,7 +90,7 @@ NVIDIA supported drivers
 - https://devtalk.nvidia.com/default/board/98
 
 Open Source NVIDIA driver (nouveau)
-- http://nouveau.freedesktop.org/wiki/FrontPage
+- http://nouveau.freedesktop.org/wiki/
 
 If you know of any other places, please let us know.
 

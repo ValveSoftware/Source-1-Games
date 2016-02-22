@@ -1,9 +1,9 @@
 Source-1-Games
 ==============
 
-This is the README for the Source 1 based games.  Source 1 based games include Team Fortress 2 and Counter-Strike: Source.
+This is the README for the Source 1 based games.  Source 1 based games include Team Fortress 2, Left4Dead2, and Counter-Strike: Source.
 
-Please use this repository to report bugs and feature requests for Team Fortress 2, Counter-Strike: Source, and the Source 1 Engine.
+Please use this repository to report bugs and feature requests for Team Fortress 2, Counter-Strike: Source, Left4Dead2, and the Source 1 Engine.
 
 Conduct
 -------

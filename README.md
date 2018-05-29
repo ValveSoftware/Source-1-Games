@@ -1,105 +1,92 @@
-Source-1-Games
+Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
+==============
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.
 ==============
 
-This is the README for the Source 1 based games.  Source 1 based games include Team Fortress 2, Left4Dead2, and Counter-Strike: Source.
+Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-Please use this repository to report bugs and feature requests for Team Fortress 2, Counter-Strike: Source, Left4Dead2, and the Source 1 Engine.
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.
 
-Conduct
+Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
+-------
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.
 -------
 
-There are basic rules of conduct that should be followed at all times by everyone participating in the discussions.  While this is generally a relaxed environment, please remember the following:
+Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-- Do not insult, harass, or demean anyone.
-- Do not intentionally multi-post an issue.
-- Do not use ALL CAPS when creating an issue report.
-- Do not repeatedly update an open issue remarking that the issue persists.
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.
 
-Remember: Just because the issue you reported was reported here does not mean that it is an issue with Team Fortress 2, Counter-Strike: Source or any other Source 1 game.  As well, should your issue not be resolved immediately, it does not mean that a resolution is not being researched or tested.  Patience is always appreciated.
-
-Reporting Issues
+Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
+----------------
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.
 ----------------
 
-If you encounter a bug while using Source 1 games, first search the [issue list](https://github.com/ValveSoftware/Source-1-Games/issues) to see if it has already been reported. Include closed issues in your search.
+Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-If it has not been reported, create a new issue with at least the following information:
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.
 
-- which game you're reporting the bug on (TF2, CS:S, all)
-- a short, descriptive title;
-- a detailed description of the issue, including any output from the command line;
-- steps for reproducing the issue; and
-- your [system information](#system-information).
+### Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-Please place logs either in a code block (press `M` in your browser for a GFM cheat sheet) or a [gist](https://gist.github.com).
+### In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.
 
-### System information
+Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-Your system information must include:
-- your Linux distro or OS version
-- your Desktop/Window Manager (Linux only)
-- your Graphics card info (manufacturer, card version), any and all graphics driver versions
-- anything else that you think may be useful (mouse/keyboard, filesystem type, etc).
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.
 
-The preferred and easiest way to get this information is from Steam's Hardware Information viewer from the menu (`Help -> System Information`).
+Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-Once your information appears: right-click within the dialog, choose `Select All`, right-click again, and then choose `Copy`.
-Paste this information into your report, preferably in a code block or a [gist](https://gist.github.com).
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.
 
-Feature Requests
--------------------
+Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-If you are asking for a new feature or enhancement for a game, first search the [issue list](https://github.com/ValveSoftware/Source-1-Games/issues) to see if it has already been asked for. Include closed issues in your search.
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.
 
-If it has been asked for, go ahead and put your 2 cents in for it in the existing entry.
+Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-If it has not been asked for, create a new issue with at least the following information:
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.
 
- - The game your asking for the enhancement
- - A clear description of what exactly you want
- - Justification as to why this is something that is needed
- - Why we should do this feature rather than doing some other feature on the list
+Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-Remember that just because you ask for a feature improvement doesn't mean we'll get to it.  We're mostly going to be focused on existing bugs rather than enhancing these games.  That being said, it does make a difference to know what you want here.  Be clear.  Be concise.
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-Driver Contact Information
---------------------------
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-Some of the issue you may be experiencing are due to the various video drivers.  Here is an incomplete list of places that you might be able to file bugs or get additional help:
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-### AMD
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-AMD Steam Linux forum for reporting **compatibility and performance issues with AMD hardware**:
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-https://community.amd.com/community/devgurus/steam-linux
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-The AMD Open Source driver is a part of Mesa, so use the links under "Intel" to report issues with it.
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-### Intel
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-For discussions, there is the mesa-users email list:
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-http://mesa3d.org/lists.html
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-Bugs and feature requests should be logged in bugzilla:
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-http://mesa3d.org/bugs.html
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-### NVIDIA
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-NVIDIA supported drivers
-- https://devtalk.nvidia.com/default/board/98
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-Open Source NVIDIA driver (nouveau)
-- http://nouveau.freedesktop.org/wiki/
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-If you know of any other places, please let us know.
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-Known Video Driver/Card issues:
-----------------------------------
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-### NVIDIA
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-6xxx and 7xxx hardware have been EOL'd. The code specific to these GPUs isn't even compiled into drivers anymore.
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
-6xxx and 7xxx GPUs are incapable of performing sRGB functionality needed by Source Engine titles when being driven by OpenGL. (The sRGB behavior as specified in OpenGL is slightly different than the behavior that was actually unspecified in D3D9, which is why this works in D3D9 but not in OpenGL).
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
 
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.Good day, I've received word from the VAC team that this is intentional and not open for discussion on Github.
+
+In general VAC issues are not handled on Github in any capacity and further issue reports on this may result in being banned from the Valve Software issue trackers.

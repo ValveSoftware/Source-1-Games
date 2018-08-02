@@ -30,7 +30,7 @@ If it has not been reported, create a new issue with at least the following info
 - steps for reproducing the issue; and
 - your [system information](#system-information).
 
-Please place logs either in a code block (press `M` in your browser for a GFM cheat sheet) or a [gist](https://gist.github.com).
+Please place logs either in a code block ([go here](https://guides.github.com/features/mastering-markdown/) for a GFM cheat sheet) or a [gist](https://gist.github.com).
 
 ### System information
 

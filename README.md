@@ -54,7 +54,7 @@ If it has been asked for, go ahead and put your 2 cents in for it in the existin
 
 If it has not been asked for, create a new issue with at least the following information:
 
- - The game your asking for the enhancement
+ - The game you're asking for an enhancement
  - A clear description of what exactly you want
  - Justification as to why this is something that is needed
  - Why we should do this feature rather than doing some other feature on the list
@@ -80,7 +80,7 @@ For discussions, there is the mesa-users email list:
 
 http://mesa3d.org/lists.html
 
-Bugs and feature requests should be logged in bugzilla:
+Bugs and feature requests should be logged in Bugzilla:
 
 http://mesa3d.org/bugs.html
 

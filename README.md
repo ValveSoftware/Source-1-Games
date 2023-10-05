@@ -48,7 +48,7 @@ Paste this information into your report, preferably in a code block or a [gist](
 Feature Requests
 -------------------
 
-If you are asking for a new feature or enhancement for a game, first search the [issue list](https://github.com/ValveSoftware/Source-1-Games/issues) to see if it has already been asked for. Include closed issues in your search.
+If you are asking for a new feature or enhancement for a game, first search the [issue list](https://github.com/ValveSoftware/Source-1-Games/issues?q=is%3Aissue+label%3A%22Feature+Request%22) to see if it has already been asked for. Include closed issues in your search.
 
 If it has been asked for, go ahead and put your 2 cents in for it in the existing entry.
 
